@@ -1,37 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb92843-70f0-4bc3-9272-9d65cbea3b02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Analysis_of_phases_of_the_cell_cycle_of_cancer_cells.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cdb92843-70f0-4bc3-9272-9d65cbea3b02" name="Changes" comment="commit1">
+      <change afterPath="$PROJECT_DIR$/scripts/01RenameData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/02segmentation_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/03extract_features.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/04cell_cycle_classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/05validate_and_visualize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/06final_correction_and_report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/07create_final_presentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/08visualize_segmentation_examples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Analysis_of_phases_of_the_cell_cycle_of_cancer_cells.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Analysis_of_phases_of_the_cell_cycle_of_cancer_cells.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "GeorgeMihaylov"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GeorgeMihaylov&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/GeorgeMihaylov/Analysis_of_phases_of_the_cell_cycle_of_cancer_cells.git",
-    "accountId": "1a418c7b-7d4d-4b3f-85c9-55211ed24cc4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GeorgeMihaylov/Analysis_of_phases_of_the_cell_cycle_of_cancer_cells.git&quot;,
+    &quot;accountId&quot;: &quot;1a418c7b-7d4d-4b3f-85c9-55211ed24cc4&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="38vgEncuusdjLst7Vdhtse97V8B" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,9 +52,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01RenameData.executor": "Run",
+    "Python.02segmentation_test.executor": "Run",
+    "Python.03extract_features.executor": "Run",
+    "Python.04.executor": "Run",
+    "Python.04cell_cycle_classification.executor": "Run",
+    "Python.04classify_by_ML.executor": "Run",
+    "Python.05.executor": "Run",
+    "Python.05plot_cell_cycle_distribution.executor": "Run",
+    "Python.05validate_and_visualize.executor": "Run",
+    "Python.06.executor": "Run",
+    "Python.06final_correction_and_report.executor": "Run",
+    "Python.07create_final_presentation.executor": "Run",
+    "Python.08visualize_segmentation_examples.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -60,6 +86,19 @@
       <option name="presentableId" value="Default" />
       <updated>1769685349707</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit1">
+      <option name="closed" value="true" />
+      <created>1769686005294</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1769686005296</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
   </component>
 </project>
