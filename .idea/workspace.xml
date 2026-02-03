@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb92843-70f0-4bc3-9272-9d65cbea3b02" name="Changes" comment="commit2">
-      <change afterPath="$PROJECT_DIR$/scripts/0000.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/00create_project_structure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/00generate_requirements.py" afterDir="false" />
+    <list default="true" id="cdb92843-70f0-4bc3-9272-9d65cbea3b02" name="Changes" comment="commit3">
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/01) Kelly ctrl 2h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/02) Kelly Aura 0.5uM 2h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/03) Kelly Aura 1uM 2h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/04) Kelly Aura 2uM 2h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/05) Kelly ctrl 6h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/06) Kelly Aura 0.5uM 6h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/07) Kelly Aura 1uM 6h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/08) Kelly Aura 2uM 6h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/09) Kelly ctrl 24h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/10) Kelly Aura 0.5uM 24h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/11) Kelly Aura 1uM 24h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/12) Kelly Aura 2uM 24h.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/scripts/091.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/09advanced_experiment_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/10visualize_results.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/11final_cell_analysis_pipeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/12kelly_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/13repair_missing_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +77,22 @@
     "Python.091.executor": "Run",
     "Python.09advanced_experiment_analysis.executor": "Run",
     "Python.10visualize_results.executor": "Run",
+    "Python.11final_cell_analysis_pipeline.executor": "Run",
+    "Python.12kelly_analysis.executor": "Run",
+    "Python.13repair_missing_data.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/PycharmProjects/Analysis_of_phases_of_the_cell_cycle_of_cancer_cells/data/kelly_auranofin",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\Analysis_of_phases_of_the_cell_cycle_of_cancer_cells\data\kelly_auranofin" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -106,12 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1769696767849</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit3">
+      <option name="closed" value="true" />
+      <created>1769774245054</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769774245054</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit1" />
     <MESSAGE value="commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit2" />
+    <MESSAGE value="commit3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit3" />
   </component>
 </project>
