@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb92843-70f0-4bc3-9272-9d65cbea3b02" name="Changes" comment="commit3">
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/01) Kelly ctrl 2h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/02) Kelly Aura 0.5uM 2h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/03) Kelly Aura 1uM 2h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/04) Kelly Aura 2uM 2h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/05) Kelly ctrl 6h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/06) Kelly Aura 0.5uM 6h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/07) Kelly Aura 1uM 6h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/08) Kelly Aura 2uM 6h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/09) Kelly ctrl 24h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/10) Kelly Aura 0.5uM 24h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/11) Kelly Aura 1uM 24h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/12) Kelly Aura 2uM 24h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/091.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/11final_cell_analysis_pipeline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/12kelly_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/13repair_missing_data.py" afterDir="false" />
+    <list default="true" id="cdb92843-70f0-4bc3-9272-9d65cbea3b02" name="Changes" comment="commit4">
+      <change afterPath="$PROJECT_DIR$/scripts/14improve_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/15kelly_aura_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/16avansed_imroved_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/17.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +68,9 @@
     "Python.11final_cell_analysis_pipeline.executor": "Run",
     "Python.12kelly_analysis.executor": "Run",
     "Python.13repair_missing_data.executor": "Run",
+    "Python.14improve_analysis.executor": "Run",
+    "Python.16avansed_imroved_analysis.executor": "Run",
+    "Python.17.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -132,13 +123,22 @@
       <option name="project" value="LOCAL" />
       <updated>1769774245054</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit4">
+      <option name="closed" value="true" />
+      <created>1770123764468</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770123764468</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit1" />
     <MESSAGE value="commit2" />
     <MESSAGE value="commit3" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit3" />
+    <MESSAGE value="commit4" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit4" />
   </component>
 </project>
