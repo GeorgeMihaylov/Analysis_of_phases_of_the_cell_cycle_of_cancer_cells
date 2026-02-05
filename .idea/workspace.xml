@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb92843-70f0-4bc3-9272-9d65cbea3b02" name="Changes" comment="commit6">
-      <change afterPath="$PROJECT_DIR$/scripts/18_visualization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/20.py" afterDir="false" />
+    <list default="true" id="cdb92843-70f0-4bc3-9272-9d65cbea3b02" name="Changes" comment="commit7">
+      <change afterPath="$PROJECT_DIR$/scripts/21extract_features.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/22cell_cycle_classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/23validate_and_visualize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/24cnn_llp_full_pipeline.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +76,9 @@
     "Python.18_visualization.executor": "Run",
     "Python.19.executor": "Run",
     "Python.20.executor": "Run",
+    "Python.21extract_features.executor": "Run",
+    "Python.22cell_cycle_classification.executor": "Run",
+    "Python.24cnn_llp_full_pipeline.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -142,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770214401892</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit7">
+      <option name="closed" value="true" />
+      <created>1770291139617</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770291139617</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +175,7 @@
     <MESSAGE value="commit3" />
     <MESSAGE value="commit4" />
     <MESSAGE value="commit6" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit6" />
+    <MESSAGE value="commit7" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit7" />
   </component>
 </project>
