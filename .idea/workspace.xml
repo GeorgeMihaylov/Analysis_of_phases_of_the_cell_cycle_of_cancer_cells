@@ -1,13 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb92843-70f0-4bc3-9272-9d65cbea3b02" name="Changes" comment="commit7">
-      <change afterPath="$PROJECT_DIR$/scripts/21extract_features.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/22cell_cycle_classification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/23validate_and_visualize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/24cnn_llp_full_pipeline.py" afterDir="false" />
+    <list default="true" id="cdb92843-70f0-4bc3-9272-9d65cbea3b02" name="Changes" comment="commit8">
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/01) Kelly ctrl 2h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/02) Kelly Aura 0.5uM 2h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/03) Kelly Aura 1uM 2h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/04) Kelly Aura 2uM 2h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/05) Kelly ctrl 6h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/06) Kelly Aura 0.5uM 6h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/07) Kelly Aura 1uM 6h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/08) Kelly Aura 2uM 6h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/09) Kelly ctrl 24h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/10) Kelly Aura 0.5uM 24h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/11) Kelly Aura 1uM 24h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/12) Kelly Aura 2uM 24h.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/25cnn_llp_full_pipeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/26kelly_cnn_llp_full_pipeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/27kelly_no_cellpose.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/29kelly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/30kelly_segment_all_gpu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/31kelly_segment_failed_cpu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/32kelly_build_crops_from_masks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/33kelly_train_predict_ci.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +95,14 @@
     "Python.21extract_features.executor": "Run",
     "Python.22cell_cycle_classification.executor": "Run",
     "Python.24cnn_llp_full_pipeline.executor": "Run",
+    "Python.25cnn_llp_full_pipeline.executor": "Run",
+    "Python.26kelly_cnn_llp_full_pipeline.executor": "Run",
+    "Python.27kelly.executor": "Run",
+    "Python.27kelly_no_cellpose.executor": "Run",
+    "Python.28.executor": "Run",
+    "Python.29kelly.executor": "Run",
+    "Python.30kelly_segment_all_gpu.executor": "Run",
+    "Python.31kelly_segment_failed_cpu.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -90,6 +114,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PycharmProjects\Analysis_of_phases_of_the_cell_cycle_of_cancer_cells\data\kelly_auranofin" />
+      <recent name="D:\PycharmProjects\Analysis_of_phases_of_the_cell_cycle_of_cancer_cells\scripts" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -155,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770291139617</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit8">
+      <option name="closed" value="true" />
+      <created>1770300621765</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770300621765</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,6 +209,7 @@
     <MESSAGE value="commit4" />
     <MESSAGE value="commit6" />
     <MESSAGE value="commit7" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit7" />
+    <MESSAGE value="commit8" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit8" />
   </component>
 </project>
