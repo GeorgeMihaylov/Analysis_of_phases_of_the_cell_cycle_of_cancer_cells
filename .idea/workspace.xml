@@ -1,29 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb92843-70f0-4bc3-9272-9d65cbea3b02" name="Changes" comment="commit8">
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/01) Kelly ctrl 2h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/02) Kelly Aura 0.5uM 2h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/03) Kelly Aura 1uM 2h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/04) Kelly Aura 2uM 2h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/05) Kelly ctrl 6h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/06) Kelly Aura 0.5uM 6h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/07) Kelly Aura 1uM 6h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/08) Kelly Aura 2uM 6h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/09) Kelly ctrl 24h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/10) Kelly Aura 0.5uM 24h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/11) Kelly Aura 1uM 24h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/kelly_auranofin/12) Kelly Aura 2uM 24h.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/25cnn_llp_full_pipeline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/26kelly_cnn_llp_full_pipeline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/27kelly_no_cellpose.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/29kelly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/30kelly_segment_all_gpu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/31kelly_segment_failed_cpu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/32kelly_build_crops_from_masks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/33kelly_train_predict_ci.py" afterDir="false" />
+    <list default="true" id="cdb92843-70f0-4bc3-9272-9d65cbea3b02" name="Changes" comment="commit9">
+      <change afterPath="$PROJECT_DIR$/scripts/34kelly_segment_improved.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/35build_crops_from_masks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/36run_llp_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/38_build_crops_from_masks_fixed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/39_run_llp_analysis_fixed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/40_full_pipeline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/41_quick_llp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/42build_image_manifest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/43segment_cells.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/44improved_segmentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/45hybrid_segmentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/46build_cell_crops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/30kelly_segment_all_gpu.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/30kelly_segment_all_gpu.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +95,15 @@
     "Python.29kelly.executor": "Run",
     "Python.30kelly_segment_all_gpu.executor": "Run",
     "Python.31kelly_segment_failed_cpu.executor": "Run",
+    "Python.34kelly_segment_improved.executor": "Run",
+    "Python.35build_crops_from_masks.executor": "Run",
+    "Python.36run_llp_analysis.executor": "Run",
+    "Python.40_full_pipeline.executor": "Run",
+    "Python.42build_image_manifest.executor": "Run",
+    "Python.43segment_cells.executor": "Run",
+    "Python.44improved_segmentation.executor": "Run",
+    "Python.45hybrid_segmentation.executor": "Run",
+    "Python.46build_cell_crops.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -188,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770300621765</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit9">
+      <option name="closed" value="true" />
+      <created>1770388123567</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770388123567</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +219,7 @@
     <MESSAGE value="commit6" />
     <MESSAGE value="commit7" />
     <MESSAGE value="commit8" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit8" />
+    <MESSAGE value="commit9" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit9" />
   </component>
 </project>
